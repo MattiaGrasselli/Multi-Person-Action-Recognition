@@ -1,0 +1,1 @@
+Aggiungere queste cartelle in setting_int per aggiungerle al confronto
